@@ -1,0 +1,16 @@
+{
+  "name": "cs262-lab9-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "monopolyDirect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg-promise": "^11.10.1"
+  }
+}
