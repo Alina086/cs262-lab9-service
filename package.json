@@ -2,7 +2,7 @@
   "name": "cs262-lab9-service",
   "version": "1.0.0",
   "description": "",
-  "main": "monopolyDirect.js",
+  "main": "monopolyService.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
