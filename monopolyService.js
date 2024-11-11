@@ -1,5 +1,5 @@
 // Set up the database connection.
-
+require("dotenv")();
 const pgp = require('pg-promise')();
 
 const db = pgp({
